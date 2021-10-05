@@ -8,7 +8,7 @@ Makes writing in python easier.
 3. In you python file, write "from cobra import *"
 4. Done!
 
-#Commands:
+# Commands:
 
     Console.write(Message)                              | Just prints the message
     Console.prefix_write(Prefix, message)               | Prints a message with a prefix (ex. "[MyPrefix] MyMessage")
